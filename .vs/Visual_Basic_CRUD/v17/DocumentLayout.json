@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|c:\\users\\gabriel\\documents\\proyectos c#\\visual_basic_crud\\visual_basic_crud\\paneles_del_contenedor\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|solutionrelative:visual_basic_crud\\paneles_del_contenedor\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|c:\\users\\gabriel\\documents\\proyectos c#\\visual_basic_crud\\visual_basic_crud\\paneles_del_contenedor\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|solutionrelative:visual_basic_crud\\paneles_del_contenedor\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|c:\\users\\gabriel\\documents\\proyectos c#\\visual_basic_crud\\visual_basic_crud\\paneles_del_contenedor\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|solutionrelative:visual_basic_crud\\paneles_del_contenedor\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|c:\\users\\gabriel\\documents\\proyectos c#\\visual_basic_crud\\visual_basic_crud\\paneles_del_contenedor\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{97D105D3-E93D-47C2-A575-75697F355E55}|Visual_Basic_CRUD\\Visual_Basic_CRUD.vbproj|solutionrelative:visual_basic_crud\\paneles_del_contenedor\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.vb",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb",
+              "RelativeDocumentMoniker": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb",
+              "RelativeToolTip": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAswBEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T06:11:03.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.vb",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb",
+              "RelativeDocumentMoniker": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb",
+              "RelativeToolTip": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAuwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T08:08:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb",
+              "RelativeDocumentMoniker": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Producto.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T07:47:18.517Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb",
+              "RelativeDocumentMoniker": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Proyectos C#\\Visual_Basic_CRUD\\Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Visual_Basic_CRUD\\Paneles_del_contenedor\\Empleado.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-19T05:49:43.943Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\bin\Debug\Visual_Basic_CRUD.exe.config
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\bin\Debug\Visual_Basic_CRUD.exe
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\bin\Debug\Visual_Basic_CRUD.pdb
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\bin\Debug\Visual_Basic_CRUD.xml
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.Resources.resources
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.exe
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.xml
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.pdb
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.Form1.resources
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.Menu.resources
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.Empleado.resources
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.Producto.resources
+C:\Users\Gabriel\Documents\Proyectos C#\Visual_Basic_CRUD\Visual_Basic_CRUD\obj\Debug\Visual_Basic_CRUD.Tienda.resources
